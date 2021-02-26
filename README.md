@@ -13,16 +13,16 @@
 * ### Descargar el  proyecto
 * ### iniciar terminal  en la carpeta del proyecto
 
-![Ejecucion](./img/principal.png ){ width=300 }
+![Ejecucion](./img/principal.png )
 
 * ### ejecutar el archivo traduccion.js utilizando nodejs escribiendo el comando node "traduccion.js" en la terminal abierta
 
-![Comando](./img/comando.png ){ width=300 }
+![Comando](./img/comando.png )
 * ### Escribir una expresion aritmetica  para su traduccion a codigo de 3 direcciones
 
 ### Ejemplos de ejecucion a traves de varias cadenas de varias cadenas de entrada
 
-![Ejemplos de traduccion](./img/ejecucion1.png ){ width=500 }
+![Ejemplos de traduccion](./img/ejecucion1.png )
 
-![Ejemplos de traduccion](./img/ejecucion2.png ){ width=500 }
+![Ejemplos de traduccion](./img/ejecucion2.png )
 
