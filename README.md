@@ -1,8 +1,4 @@
 ## Expresiones aritmeticas a C3D utilizando jison
-### Walter Oswaldo Mach Velasquez
-### 201315300
-
-
 
 
 ## Requisitos previos
